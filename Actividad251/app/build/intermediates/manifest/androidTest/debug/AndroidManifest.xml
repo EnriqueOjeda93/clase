@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="es.vcarmen.actividad25.test">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="21" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="es.vcarmen.actividad25"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for es.vcarmen.actividad25"/>
+</manifest>

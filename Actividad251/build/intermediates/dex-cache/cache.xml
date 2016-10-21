@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\proyectos\Actividad251\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\proyectos\Actividad251\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_3586d9d54c0b21fc1456dea73c90c6e421fd3d5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\proyectos\Actividad251\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca9c97bebe3f6aa6c8b8d1c1ec7ed147b565d1aa">
+        <dex dex="C:\proyectos\Actividad251\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6a5d2f3d61f257a1c873d444688ae88afef25c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\proyectos\Actividad251\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ab7117034333972510276ec5b0c13263b4f42677">
+        <dex dex="C:\proyectos\Actividad251\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5ca9f88af99fd99bebdc10ea39b0e989ead1f116\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Astudio\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\proyectos\Actividad251\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_64aed57db45b9d8f830b6417f5999f598965ba93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\proyectos\Actividad251\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\proyectos\Actividad251\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_b282686bb5ddc67ea40aa841fb659d4db084d9a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\proyectos\Actividad251\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\proyectos\Actividad251\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_bdb20663da94fbdb7f4d30c7e8d45e22636eff2d\classes.dex" />
+    </item>
+
+</items>

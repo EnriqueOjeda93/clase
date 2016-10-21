@@ -1,0 +1,7 @@
+#Tue Oct 11 07:06:45 CEST 2016
+base.0=C\:\\proyectos\\Actividad251\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5ca9f88af99fd99bebdc10ea39b0e989ead1f116
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\proyectos\\Actividad251\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6a5d2f3d61f257a1c873d444688ae88afef25c82\\classes.dex
+base.1=C\:\\proyectos\\Actividad251\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6a5d2f3d61f257a1c873d444688ae88afef25c82
+file.0=C\:\\proyectos\\Actividad251\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5ca9f88af99fd99bebdc10ea39b0e989ead1f116\\classes.dex
